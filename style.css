@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.jam{
+    display: flex;
+}
+.span{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+
+
+
+}
+.kola{
+    width: 100%;
+    padding-left: 2%;
+}
+.alo{
+    text-align: center;
+}
+#rocmari{
+    font-family: 0;
+}
+.apple{
+    display: flex;
+    text-align: center;
+}
+.kathal{
+    width: 20%;
+    box-shadow: 10px 10px 10px;
+    
+    
+    margin-left: 5%;
+    margin-right: 5%;
+}
